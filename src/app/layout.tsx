@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: AI_NAME,
-  description: 'CM ' + AI_NAME,
+  description: AI_NAME,
 };
 
 export const dynamic = "force-dynamic";
